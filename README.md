@@ -1,1 +1,1 @@
-# java-foundation
+Collective java concepts walkthrough.
